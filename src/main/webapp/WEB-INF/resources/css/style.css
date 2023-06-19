@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 18, 2023, 3:40:54 PM
+    Author     : Melody
+*/
+
+.pendon-container {
+    max-width: 100%;
+    text-align: center;
+}
+.carousel-image,
+.pendon-image {
+    height: 100%;
+    object-fit: cover;
+}
